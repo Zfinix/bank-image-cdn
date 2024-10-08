@@ -7,13 +7,13 @@ A Nigeria Bank Logos is a specialized repository designed to store and deliver N
 To incorporate logo assets from this CDN into your project, you can utilize the following URLs:
 
 ```bash
-https://cdn.jsdelivr.net/gh/wovenfinance/cdn@main/logos/<bankcode.png>
+https://cdn.jsdelivr.net/gh/zfinix/bank-image-cdn@main/logos/<bankcode.png>
 ```
 
 For instance, if you wish to include the Access Bank logo from the `logos` directory of the `main` branch, the URL would be:
 
 ```bash
-https://cdn.jsdelivr.net/gh/wovenfinance/cdn@main/logos/000014.png
+https://cdn.jsdelivr.net/gh/zfinix/bank-image-cdn@main/logos/000014.png
 ```
 
 To optimize browser caching and enhance performance, it is recommended to specify a particular release tag or branch name instead of relying on the default `main` branch.
